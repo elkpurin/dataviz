@@ -7,4 +7,6 @@ library(gapminder)
 head(gapminder)
 ```
 
-**It's work!** :thumbsup:
+**It's worked!** :thumbsup:
+
+**Hell yes!!** :grin:
